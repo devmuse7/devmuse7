@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surbhi</h1>
 <h3 align="center"><em>A passionate Full Stack Web Developer from India 👧</em></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itachii27&theme=monokai&margin-w=10&column=4&margin-h=10" alt="Itachii27" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itachii27&theme=monokai&margin-w=10&column=4&margin-h=10" alt="Itachii27" /></a></p>
 
 [![Itachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itachii27&theme=react)](https://github.com/itachii27/github-readme-activity-graph)
 
