@@ -1,5 +1,4 @@
 
-![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/c32c4465-b1f4-49b4-bbc1-da090c0ff98d)
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=itachii27&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 
