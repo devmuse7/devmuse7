@@ -4,7 +4,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=itachii27" alt="itachii27" />
 </a>
 </p>
-
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachii27&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="itachii27 stats card" /></p>
 <p>&nbsp;
