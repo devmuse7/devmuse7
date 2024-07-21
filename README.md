@@ -1,20 +1,14 @@
 
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=itachii27" alt="itachii27" />
+</a>
+</p>
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=itachii27&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachii27&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="itachii27 stats card" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=itachii27&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="itachii27 stats card" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itachii27&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/Itachii27" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> </p>
-
-
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=itachii27&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=itachii27&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachii27&theme=dark&hide_border=false" alt="profile-radme-generator" />
