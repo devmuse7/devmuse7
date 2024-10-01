@@ -1,14 +1,3 @@
-
-<div align="center">
-  <a href="https://github.com/itachii27"><img src="https://komarev.com/ghpvc/?username=itachii27&color=blue&style=for-the-badge"/><a/>
-  <hr>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=itachii27" alt="itachii27" />
-</a></p>
-</div>  
-
-<hr>
-
 <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Fullstack+Developer,+now+fullstack+developer.+Huge+heavy+metal+and+all+pre-2000s+music+fan,+history+nerd.;“Those+who+cannot+remember+the+past+are+condemned+to+repeat+it”." alt="Typing SVG" /></a>
@@ -52,5 +41,26 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachii27&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="itachii27 stats card" /></p>
 <p>
+
+
+# Welcome to My GitHub Profile!
+
+Welcome to my GitHub profile! Here you'll find various stats about my contributions, top repositories, and other interesting information. Feel free to explore and connect!
+
+## 📊 GitHub Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Itachii27&abbreviated=true)](https://github.com/Itachii27)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itachii27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itachii27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Itachii27&theme=blue-green&hide_border=true)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itachii27&theme=blue_green)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itachii27&theme=blue_green)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itachii27&theme=blue_green&utcOffset=8)
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Itachii27&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Itachii27)
+
+
 
 
