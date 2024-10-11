@@ -62,5 +62,7 @@ Welcome to my GitHub profile! Here you'll find various stats about my contributi
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Itachii27&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Itachii27)
 
 
+[![An image of @itachii27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itachii27)](https://holopin.io/@itachii27)
+
 
 
