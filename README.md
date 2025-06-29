@@ -62,15 +62,3 @@
 </p>
 
 ---
-
-### 🤝 Let's Connect
-
-- 🔗 LinkedIn: [@itachii27](https://www.linkedin.com/in/itachii27)
-- 🌐 Portfolio: [YourWebsiteHere.com](https://yourwebsitehere.com)
-- 📬 Email: your-email@example.com
-
-> “Stay hungry. Stay foolish.” — Steve Jobs
-
----
-
-⭐ *Thanks for visiting! Don’t forget to ⭐ some repos if you find them helpful!*
