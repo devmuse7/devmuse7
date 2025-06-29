@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World!</h1>
 
-<p align="center">I'm <strong>Surbhi</strong>, a passionate developer and tech enthusiast. Here you'll find my projects, contributions, and everything I’ve been exploring. Dive in and connect!</p>
+<p align="center">I'm a passionate developer and tech enthusiast. Here you'll find my projects, contributions, and everything I’ve been exploring. Dive in and connect!</p>
 
 ---
 
