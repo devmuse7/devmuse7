@@ -39,17 +39,6 @@
 
 ---
 
-
-## 🌟 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@itachii27">
-    <img src="https://holopin.me/itachii27" alt="@itachii27's Holopin board"/>
-  </a>
-</p>
-
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
