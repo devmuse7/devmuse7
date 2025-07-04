@@ -36,7 +36,6 @@
 | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF2B&width=200&lines=Languages) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF2B&width=200&lines=Frameworks) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF2B&width=200&lines=IDEs) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF2B&width=200&lines=Tools) | ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF2B&width=200&lines=Operating+Systems) |
 | -------- | -------- | ------- | ------ | ------------------- |
 | <div align="center"><img src="https://skillicons.dev/icons?i=py,java,js,html,css,r" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,anaconda" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" /></div> |
-| <div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></div> |  |  |  |  |
 
 ---
 
