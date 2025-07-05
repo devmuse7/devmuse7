@@ -33,8 +33,8 @@
 <p align="center">
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itachii27&theme=blue_green" height="120"/>
    -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itachii27&theme=blue_green" height="120"/>
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itachii27&theme=blue_green&utcOffset=8" height="120"/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itachii27&theme=blue_green" height="120"/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itachii27&theme=blue_green&utcOffset=8" height="120"/> -->
 </p> -->
 
 ---
