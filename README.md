@@ -7,6 +7,14 @@
 
 --- 
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachii27&theme=dracula"/>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -39,10 +47,4 @@
 
 ---
 
-## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itachii27&theme=dracula"/>
-</p>
-
----
