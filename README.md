@@ -12,9 +12,9 @@
 |<div align="center"><img src="https://skillicons.dev/icons?i=py,java,js,html,css,r" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,anaconda" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" /></div> |
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devmuse7&color=brightgreen" alt="Profile Views"/>
-</p>
+</p> -->
 
 <!-- <p align="center"> -->
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=devmuse7&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" height="150"/> -->
@@ -66,4 +66,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=devmuse7&theme=default"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
